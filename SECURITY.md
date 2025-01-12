@@ -2,12 +2,12 @@
 
 ## Supported Versions
 
-See our website for versions of Bitcoin Core that are currently supported with
-security updates: https://bitcoincore.org/en/lifecycle/#schedule
+See our website for versions of OwnCrew Core that are currently supported with
+security updates: (It's not ready yet)
 
 ## Reporting a Vulnerability
 
-To report security issues send an email to security@bitcoincore.org (not for support).
+To report security issues send an email to security@owncrew.org (not for support).(It's not ready yet)
 
 The following keys may be used to communicate sensitive information to developers:
 

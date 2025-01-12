@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Copyright (c) 2019-2022 The Bitcoin Core developers
+# Copyright (c) 2019-2022 The OwnCrew Core developers
 # Distributed under the MIT software license, see the accompanying
 # file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -16,12 +16,12 @@ disconnected.
 from decimal import Decimal
 import shutil
 
-from test_framework.test_framework import BitcoinTestFramework
+from test_framework.test_framework import OwnCrewTestFramework
 from test_framework.util import (
         assert_equal,
 )
 
-class ReorgsRestoreTest(BitcoinTestFramework):
+class ReorgsRestoreTest(OwnCrewTestFramework):
     def add_options(self, parser):
         self.add_wallet_options(parser)
 
